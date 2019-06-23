@@ -4,6 +4,8 @@
 
 ## Description
 This is a very simple random number generator that displays conditional logic using React/JSX.
+![Example Screenshot of Page](example-img.png)
+
 
 ## How to Launch the App
 Download or clone this repo to your machine
