@@ -5,7 +5,7 @@
 ## Description
 This is a very simple random number generator that displays conditional logic using React/JSX.
 
-<img src="example.png" alt="Example image" width="200"/>
+<img src="example.png" alt="Example image" width="350" align="center"/>
 
 
 ## How to Launch the App
