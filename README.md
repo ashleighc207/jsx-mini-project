@@ -4,7 +4,7 @@
 
 ## Description
 This is a very simple random number generator that displays conditional logic using React/JSX.
-![Example Screenshot of Page](example-img.png)
+![Example Screenshot of Page](https://github.com/ashleighc207/jsx-mini-project/blob/master/example-img.png&s=250)
 
 
 ## How to Launch the App
